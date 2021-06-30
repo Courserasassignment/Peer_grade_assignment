@@ -1,7 +1,7 @@
 ---
 title: 'Course Project: Shiny Application and Reproducible Pitch'
-author: "Xavier Fontané"
-date: "4 de abril de 2017"
+author: "Arvind G"
+date: "june 30th 2021"
 output: ioslides_presentation
 ---
 
